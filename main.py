@@ -18,7 +18,7 @@ from datetime import datetime
 
 # Klaviyo API endpoint
 KLAVIYO_API_URL = "https://a.klaviyo.com/api/profiles/"
-KLAVIYO_API_KEY = "pk_7171df82c75a0e87966d29c358db46c247"
+KLAVIYO_API_KEY = "Dummy"
 
 service_account_file = "fluted-union-400300-6dd5523ce358.json"
 
