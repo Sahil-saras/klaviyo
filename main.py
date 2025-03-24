@@ -20,9 +20,6 @@ from datetime import datetime
 KLAVIYO_API_URL = "https://a.klaviyo.com/api/profiles/"
 KLAVIYO_API_KEY = "Dummy"
 
-service_account_file = "fluted-union-400300-6dd5523ce358.json"
-
-
 def update_klaviyo_profiles():
     """Fetch data from BigQuery, format it, and send to Klaviyo."""
     print("Starting Klaviyo profile update process")
